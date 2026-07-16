@@ -5,6 +5,11 @@
 //  Created by Muznah Adil on 2026-07-15.
 //
 
+// Assignment 11 - Fundamental Application Development 6
+// Hacking with Swift Project 6: Animation
+// Working through the tutorial steps in order, commenting out
+// replaced code instead of deleting it.
+
 import SwiftUI
 
 struct ContentView: View {
